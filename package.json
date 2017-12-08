@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "deepmerge": "^2.0.1"
+  },
+  "devDependencies": {
+    "@bazel/typescript": "https://github.com/bazelbuild/rules_typescript.git",
+    "typescript": "2.5.x"
+  }
+}
